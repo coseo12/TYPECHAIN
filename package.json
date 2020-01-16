@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/coseo12/TYPECHAIN#readme",
   "dependencies": {
+    "crypto-js": "^3.1.9-1",
     "typescript": "^3.7.4"
   },
   "devDependencies": {
